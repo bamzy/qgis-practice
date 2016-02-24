@@ -1,0 +1,3 @@
+* 	A vector layer is a dataset, usually of a specific kind of object, such as roads, trees, etc.
+	A vector layer can consist of either points, lines or polygons.
+* 	
